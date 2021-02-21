@@ -1,0 +1,648 @@
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\BL.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Model.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Model.pdb
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+Q:\C#\ smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\BL.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Model.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Model.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+Q:\C#\Backup\08012021\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+Q:\C#\Backup\08012021\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\BL.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Model.dll
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Model.pdb
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+Q:\C#\TMP\smart_com\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Q:\C#\TMP\smart_com\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

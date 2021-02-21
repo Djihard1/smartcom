@@ -1,0 +1,15 @@
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\BL.deps.json
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\BL.runtimeconfig.json
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\BL.runtimeconfig.dev.json
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\BL.dll
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\BL.pdb
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\Model.dll
+Q:\C#\TMP\smart_com\Bl\bin\Release\netcoreapp3.1\Model.pdb
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.csprojAssemblyReference.cache
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.AssemblyInfo.cs
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.csproj.CopyComplete
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.dll
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.pdb
+Q:\C#\TMP\smart_com\Bl\obj\Release\netcoreapp3.1\BL.genruntimeconfig.cache

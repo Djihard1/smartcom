@@ -1,0 +1,12 @@
+Q:\C#\TMP\smart_com\Model\bin\Release\netcoreapp3.1\Model.deps.json
+Q:\C#\TMP\smart_com\Model\bin\Release\netcoreapp3.1\Model.runtimeconfig.json
+Q:\C#\TMP\smart_com\Model\bin\Release\netcoreapp3.1\Model.runtimeconfig.dev.json
+Q:\C#\TMP\smart_com\Model\bin\Release\netcoreapp3.1\Model.dll
+Q:\C#\TMP\smart_com\Model\bin\Release\netcoreapp3.1\Model.pdb
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.csprojAssemblyReference.cache
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.AssemblyInfo.cs
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.dll
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.pdb
+Q:\C#\TMP\smart_com\Model\obj\Release\netcoreapp3.1\Model.genruntimeconfig.cache
