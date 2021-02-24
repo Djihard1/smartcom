@@ -8,6 +8,7 @@ import OrderItems from '@/components/pages/admin/OrderItems'
 import Shop from '@/components/pages/shop/shop'
 import ShopProducts from '@/components/pages/shop/ShopProducts'
 import ShopProduct from '@/components/pages/shop/ShopProduct'
+import notFound from '@/components/pages/404'
 
 
 
@@ -19,6 +20,11 @@ export default new Router({
       path: '/',
       name: 'HelloWorld',
       redirect:{path:"login"}
+    },
+    {
+      path: '*',
+      name: 'notFound',
+      component: notFound
     },
     {
       path: '/login',

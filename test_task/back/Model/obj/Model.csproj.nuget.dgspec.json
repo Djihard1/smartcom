@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj": {}
+    "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj": {
+    "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "Q:\\Microsoft\\Xamarin\\NuGet\\"

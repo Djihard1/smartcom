@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Bl\\BL.csproj": {
+    "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Bl\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Bl\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Bl\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Bl\\BL.csproj",
+        "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Bl\\BL.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Bl\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Bl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "Q:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj"
+              "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj": {
+    "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "Q:\\Microsoft\\Xamarin\\NuGet\\"
@@ -185,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "Q:\\Microsoft\\Xamarin\\NuGet\\"
@@ -212,11 +212,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Bl\\BL.csproj": {
-                "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Bl\\BL.csproj"
+              "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Bl\\BL.csproj": {
+                "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Bl\\BL.csproj"
               },
-              "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\Model\\Model.csproj"
+              "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\Model\\Model.csproj"
               }
             }
           }

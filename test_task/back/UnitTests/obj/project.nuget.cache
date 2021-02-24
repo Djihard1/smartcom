@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZeOb0nYQzj9gf46irznnPo1Qw7HCwwjnwTQRT6Es83yg8QtWEIVCUSaL5lPfbAfeU5b/B4QnPUQplNlmrUp6WQ==",
+  "dgSpecHash": "2kG+H2PsvAFfQlvWDXEQzYBncD0vn9EnG1aBgsPp3iRqNilsZDCIvT+uDRaRpoJodlCYgliOR729lrLYSnxz8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Professional\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

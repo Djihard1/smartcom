@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRKETcXQraByHM0nLXSfWbSUSsFqy61DkavKCaASrOnHsGiYOLmmQR7l+yfP0QQxGM0oB+btx4x1zaWxQjY/7A==",
+  "dgSpecHash": "Ve6QkGQHjC5DCj381J/k83JMn4BhsJoznr+8PXpGrlFTRDZZoJWDtDqanROcM/nmno6xkink0y7qDJ8AuAa3lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Professional\\Downloads\\test_task\\test_task\\back\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Professional\\Documents\\GitHub\\smartcom\\test_task\\back\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Professional\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
