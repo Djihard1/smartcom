@@ -17,15 +17,16 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/',
-      name: 'HelloWorld',
-      redirect:{path:"login"}
-    },
-    {
       path: '*',
       name: 'notFound',
       component: notFound
     },
+    {
+      path: '/',
+      name: 'HelloWorld',
+      redirect:{path:"login"}
+    },
+
     {
       path: '/login',
       name: 'login',
@@ -52,6 +53,11 @@ export default new Router({
           name: 'admin.orderitems',
           component: OrderItems
         },
+        {
+          path: 'admin.*',
+          name: 'notFound',
+          component: notFound
+        },
 
 
 
@@ -73,6 +79,11 @@ export default new Router({
           path: 'product/:pid',
           name: 'shop.product',
           component: ShopProduct
+        },
+        {
+          path: 'shop.*',
+          name: 'notFound',
+          component: notFound
         },
       ]
     }
