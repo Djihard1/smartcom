@@ -22,6 +22,10 @@
           <td>:</td>
           <td><input type="text" placeholder="Category" v-model="newProduct.category"></td>
         <tr>
+        <td>Photo_dev</td>
+        <td>:</td>
+        <td><button>Load photo</button></td>
+        <tr>
           <td>
           </td>
           <td>

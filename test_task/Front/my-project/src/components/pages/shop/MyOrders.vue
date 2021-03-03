@@ -1,5 +1,35 @@
 <template>
   <div class="admin">
+    <modal modalHeading=" Edit Carts" :cond = "showingEditModal" @modalClose = "showingEditModal = false" >
+      <table>
+        <tr>
+          <td>Code</td>
+          <td>:</td>
+          <td><input type="text" placeholder="Code" ></td>
+        </tr>
+        <tr>
+          <td>Name</td>
+          <td>:</td>
+          <td><input type="text" placeholder="Name" ></td>
+        </tr>
+        <tr>
+          <td>Price</td>
+          <td>:</td>
+          <td><input type="number" placeholder="Price" ></td>
+        </tr>
+        <tr>
+          <td>Category</td>
+          <td>:</td>
+          <td><input type="text" placeholder="Category"></td>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <button class="btnSave" > Save</button>
+          </td>
+        </tr>
+      </table>
+    </modal>
     <div id="header">
       <h1 class="fleft"> Cart </h1>
       <li>
@@ -26,10 +56,9 @@
           <br>
           <h5 v-for="product in order.order">Product Name: {{product.name}} Price:{{product.price}} </h5>
           <button  class="addBtn"  @click="clickedOrderId = order.id, DeleteOrder() "> Delete</button>
-          <button  class="addBtn"  @click="clickedOrderId = order.id"> Edit_dev_no work</button>
+          <button  class="addBtn"  @click="clickedOrderId = order.id" editProduct> Edit_dev_no work</button>
         </div>
       </div>
-
     </div>
     <div id="cart">
       <div id="cartContainer">
@@ -41,9 +70,14 @@
           <option value="Выполняется">Выполняется</option>
           <option value="Выполнен">Выполнен</option>
         </select>
+        <br><br>
+        <p>
+        <router-link to="/shop/products">
+          To Shop
+        </router-link>
+        </p>
       </div>
     </div>
-
   </div>
 </template>
 
@@ -55,7 +89,8 @@
                 clickedOrderId:"",
                 filterStatus:"",
                 sortedOrders:[],
-                statusNotFound:false
+                statusNotFound:false,
+                showingEditModal:false
             }
         },
         mounted(){
@@ -116,6 +151,9 @@
                     }
                 })
             },
+            editProduct(){
+                showingEditModal:true
+            }
         },
         computed:{
             filtersOrders(){
