@@ -32,6 +32,8 @@ namespace WebAPI
         {
             services.AddDbContext<Context>(options =>options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             //services.AddScoped<IUnitOfWorkController, UnitOfWorkController>(); /// TDO
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>{

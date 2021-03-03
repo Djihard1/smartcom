@@ -22,6 +22,23 @@
         </tr>
       </table>
     </modal>
+    <h2 class="fleft">Filters</h2>
+    <br><br>
+    <table>
+      <th>Status</th>
+      <td>
+        <select v-model="filterStatus" @change="filtersByOrders(filterStatus)" >
+          <option>All</option>
+          <option value="Новый">Новый</option>
+          <option value="Выполняется">Выполняется</option>
+          <option value="Выполнен">Выполнен</option>
+
+        </select>
+      </td>
+
+
+    </table>
+    <button class="addBtn fleft">Clear Filters</button>
 
     <table class="nice-table">
       <tr ><th>Order Date</th>
@@ -29,7 +46,7 @@
         <th>Order Number</th>
         <th>Status</th>
       </tr>
-      <tr v-for="order in orders" >
+      <tr v-for="order in filtersOrders" >
         <td>{{order.ordeR_DATE}}</td>
         <td>{{order.shipmenT_DATE}}</td>
         <td>{{order.ordeR_NUMBER}}</td>
@@ -47,6 +64,8 @@
                 showingEditModal:false,
                 orders:[],
                 clickedOrderItems:{},
+                filterStatus:"",
+                sortedOrders:[]
             }
         },
         mounted(){
@@ -99,14 +118,34 @@
                 })
 
             },
+            filtersByOrders(filterStatus){
+                let vm = this;
+                this.sortedOrders = []
+                console.log(filterStatus)
+                this.orders.map(function (item) {
+                    if (item.status === filterStatus)
+                        vm.sortedOrders.push(item)
+                    else {
+                       // this.sortedOrders = []
 
-
-
-
-
-
-
+                    }
+                })
+            },
+            clearFilters(){
+                this.filterStatus = null,
+                    this.sortedOrders = []
+            },
         },
+        computed:{
+            filtersOrders(){
+                if (this.sortedOrders.length){
+                    return this.sortedOrders
+                }
+                else {
+                    return this.orders
+                }
+            },
+        }
 
 
     }

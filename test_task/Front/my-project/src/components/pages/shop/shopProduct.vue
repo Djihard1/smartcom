@@ -66,7 +66,9 @@
                 })
             },
             addToCart(){
-                this.$eventBus.$emit("addToCart", {product: this.product, quality:this.qty})
+                let orrderItems = localStorage.getItem("customerid")
+                this.product.customerId = orrderItems
+                this.$eventBus.$emit("addToCart", {product: this.product, quality:this.qty, shipmentDate:""})
             }
         },
     }

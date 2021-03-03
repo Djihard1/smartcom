@@ -9,6 +9,7 @@ import Shop from '@/components/pages/shop/shop'
 import ShopProducts from '@/components/pages/shop/ShopProducts'
 import ShopProduct from '@/components/pages/shop/ShopProduct'
 import notFound from '@/components/pages/404'
+import MyOrders from '@/components/pages/shop/MyOrders'
 
 
 
@@ -27,6 +28,11 @@ export default new Router({
       redirect:{path:"login"}
     },
 
+    {
+      path: '/MyOrders',
+      name: 'MyOrders',
+      component: MyOrders
+    },
     {
       path: '/login',
       name: 'login',

@@ -17,7 +17,7 @@ namespace Model.Migrations
             modelBuilder
                 .UseIdentityColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.1");
+                .HasAnnotation("ProductVersion", "5.0.0");
 
             modelBuilder.Entity("Model.Model.Customer", b =>
                 {
@@ -77,6 +77,9 @@ namespace Model.Migrations
 
                     b.Property<string>("STATUS")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("total")
+                        .HasColumnType("int");
 
                     b.HasKey("ID");
 

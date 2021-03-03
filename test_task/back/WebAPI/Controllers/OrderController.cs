@@ -25,9 +25,9 @@ namespace WebAPI.Controllers
             }
 
         [HttpPost]
-        public async Task<IActionResult> AddOrder(OrderR orderR)
+        public async Task<IActionResult> AddOrder(OrderPost[] orderPosts)
         {
-            return Ok(await _unitOfWorkN.OrderRepository.AddOrder(orderR));
+            return Ok(await _unitOfWorkN.OrderRepository.AddOrder(orderPosts));
 
         }
         [HttpGet("{customerId}")]

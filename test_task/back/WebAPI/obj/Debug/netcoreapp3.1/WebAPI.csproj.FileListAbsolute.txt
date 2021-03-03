@@ -798,8 +798,6 @@ C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\bin\Debug\
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\BL.pdb
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Model.pdb
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
-C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
@@ -809,3 +807,8 @@ C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

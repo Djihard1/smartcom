@@ -5,7 +5,7 @@
         <tr>
           <td>ShipmentDate</td>
           <td>:</td>
-          <td><input type="date" placeholder="ShipmentDate" v-model="newOrder.Shipment_date"></td>
+          <td><input type="date"  placeholder="ShipmentDate" v-model="shipmentDate"></td>
         </tr>
         <td>
           <button class="btnSave" @click="toOrder(), this.showingMyordersModal = false"> Buy</button>
@@ -23,12 +23,18 @@
             <th>Shipment Date</th>
             <th>Order Number</th>
             <th>Status</th>
+            <th>Product</th>
+            <th>Total Count</th>
           </tr>
           <tr v-for="order in orders">
             <td>{{order.ordeR_DATE}}</td>
             <td>{{order.shipmenT_DATE}}</td>
             <td>{{order.ordeR_NUMBER}}</td>
             <td>{{order.status}}</td>
+            <td><br></td>
+            <td><br></td>
+            <td><br></td>
+
             <td>
               <button class="delete" @click=" showingEditModal = false , clickedOrder = order,  DeleteOrder()">Delete
               </button>
@@ -79,6 +85,7 @@
         <p class="txt-center">
           <button class="addBtn" @click="showingMyordersModal = true, getMyOrders()">My Orders</button>
         </p>
+        <br>
       </div>
     </div>
   </div>
@@ -94,12 +101,8 @@
                 orders: [],
                 showingByModal: false,
                 showingMyordersModal: false,
-                newOrder: {
-                    productId: "",
-                    customerId: "",
-                    item_count: "",
-                    Shipment_date: "",
-                }
+                shipmentDate:""
+
             }
             },
         computed: {
@@ -124,23 +127,27 @@
         },
         methods: {
             toOrder() {
-                // this.newOrder.customerId = localStorage.getItem("customerId")
-                this.newOrder.customerId = localStorage.getItem("customerid")
+                //TODO
                 for (var i = 0; i < this.cart.length; i++) {
                     let item = this.cart[i]
-                    let count = Number(item.quality)
-                    this.newOrder.productId = item.product.id;
-                    this.newOrder.item_count = count;
-                    this.$eventBus.$emit("loadingStatus", true);
-                    this.$axios.post("http://localhost:56750/api/order/", this.newOrder).then(res => {
+                    this.cart[i].shipmentDate = this.shipmentDate;
+                }
+                // this.newOrder.customerId = localStorage.getItem("customerId")
+                //console.log(xx)
+               //var xx = localStorage.getItem("customerid")
+               // this.cart.shipmentDate.push(this.shipmentDate)
+
+                this.$eventBus.$emit("loadingStatus", true);
+                    this.$axios.post("http://localhost:56750/api/order/", this.cart).then(res => {
                         this.$eventBus.$emit("loadingStatus", false)
                         if (res.data.success) {
                             localStorage.setItem("token", res.data.data);
                             this.$axios.defaults.headers.common['Authorization'] = 'token' + localStorage.getItem("token");
                            //this.$router.push({name: "admin"})
-
+                            this.cart = []
                         }
                         else {
+
                             this.$iziToast.error({
                                 title: 'Error',
                                 message: "\n" +
@@ -148,28 +155,11 @@
                             });
                         }
                     })
-                }
+
                 this.showingByModal = false
             },
             getMyOrders() {
-                let userToken= 'Bearer' +" " +localStorage.getItem("token");
-               // console.log(userToken)
-                this.$eventBus.$emit("loadingStatus", true);
-                let userid = localStorage.getItem("customerid");
-                let url = "http://localhost:56750/api/Order/" + userid
-                this.$axios.get(url, {headers:{ 'Authorization': userToken}}).then(res => {
-                    this.$eventBus.$emit("loadingStatus", false)
-                    if (res.data.error) {
-                        this.$iziToast.error({
-                            title: 'Error',
-                            message: res.data.message,
-                        });
-                    } else {
-                        this.orders = res.data.data;
-                       // console.log(this.orders)
-                    }
-                })
-
+                this.$router.push({name: "MyOrders"})
             },
             DeleteOrder() {
                 let deleteUrl = 'http://localhost:56750/api/Order/' + this.clickedOrder.id

@@ -23,18 +23,12 @@
           <td><input type="text" placeholder="Category" v-model="newProduct.category"></td>
         <tr>
           <td>
-
           </td>
           <td>
             <button class="btnSave" @click= "addNewProduct()"> Save</button>
           </td>
         </tr>
-
-
       </table>
-
-
-
     </modal>
     <modal modalHeading=" Update" :cond = "showingEditModal" @modalClose = "showingEditModal = false" >
       <table>
@@ -70,17 +64,9 @@
       <h2>You are going to delete the product '{{clickedProduct.name}}'</h2>
       <table>
         <tr>
-
-
-
-
         </tr>
-
-
-
         <tr>
           <td>
-
           </td>
           <td>
             <button class="btnSave" @click= "DeleteProduct()"> Yes</button>
@@ -89,27 +75,37 @@
             <button class="btnSave" @click= "showingDeleteModal = false"> No</button>
           </td>
         </tr>
-
-
       </table>
-
-
-
     </modal>
-
-
-
-
-
-
     <h2 class="fleft">Product</h2>
     <button class="addBtn fright" @click="showingAddModal = true">Add New</button>
+    <br><br><br>
+    <hr>
+    <h2 class="fleft">Filters</h2>
+    <br><br>
+    <table>
+      <th>Name</th>
+      <td>
+        <select v-model="filterName" @change="filtersByProduct(filterName,filterCategory)" >
+          <option>All</option>
+          <option v-for="product in Products"> {{product.name}}</option>
+        </select>
+      </td>
+      <th>Category</th>
+      <td>
+        <select v-model="filterCategory" @change="filtersByProduct(filterName,filterCategory)" >
+          <option>All</option>
+          <option v-for="product in Products"> {{product.category}}</option>
+        </select>
+      </td>
+
+    </table>
+    <button class="addBtn fleft" @click="clearFilters">Clear Filters</button>
+
     <div class="clear"></div>
     <hr>
-
     <table class="nice-table">
       <tr>
-        <th>ID</th>
         <th>Code</th>
         <th>Name</th>
         <th>Price</th>
@@ -117,9 +113,7 @@
         <th>Edit</th>
         <th>delete</th>
       </tr>
-
-      <tr v-for="product in Products">
-        <td>{{product.id}}</td>
+      <tr v-for="product in filtersProduct">
         <td>{{product.code}}</td>
         <td>{{product.name}}</td>
         <td>{{product.price}}</td>
@@ -127,14 +121,9 @@
         <td><button class="edit" @click=" showingEditModal = true , clickedProduct = product " >Edit</button></td>
         <td><button class="delete" @click="showingDeleteModal = true, clickedProduct = product">Delete</button></td>
       </tr>
-
-
     </table>
-
-
   </div>
 </template>
-
 <script>
     export default {
         name: 'Users',
@@ -143,35 +132,29 @@
                 showingAddModal:false,
                 showingEditModal:false,
                 showingDeleteModal:false,
+                filterName:"",
+                filterCategory:"",
                  newProduct:{
                     code:"",
                     name:"",
                     price:0,
                     category:"",
-
-
-
-
-
-                },
+                 },
                 Products:[],
                 clickedProduct:{},
+                sortedProduct:[]
 
             }
         },
         mounted(){
           //  console.log("Mounted")
             this.init();
-
         },
         methods:{
             init(){
                 this.$eventBus.$emit("loadingStatus", true);
-
                 this.$axios.get("http://localhost:56750/api/Product/getall", ).then(res =>{
                     this.$eventBus.$emit("loadingStatus", false)
-
-
                     if(res.data.error){
                         this.$iziToast.error({
                             title: 'Error',
@@ -185,29 +168,30 @@
                 })
 
             },
+            clearFilters(){
+                this.filterName = null,
+                    this.filterCategory= null
+                this.sortedProduct = []
+
+            },
 
             addNewProduct(){
                 //console.log(this.newProduct)
                 let userToken= 'Bearer' +" " +localStorage.getItem("token");
-
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.post("http://localhost:56750/api/Product", this.newProduct, {headers:{ 'Authorization': userToken}}).then(res =>{
                     this.$eventBus.$emit("loadingStatus", false)
-
                     if(res.data.success){
                         this.$axios.defaults.headers.common['Authorization'] = 'token' +localStorage.getItem("token");
                        // console.log();
                         this.showingAddModal = false
                         this.init();
-
                     }
                     else {
-
                         this.$iziToast.error({
                             title: 'Error',
                             message: "\n" +
                                 "The product already exists.",
-
                         });
                     }
                 })
@@ -219,22 +203,18 @@
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.put("http://localhost:56750/Api/product/", this.clickedProduct, {headers:{ 'Authorization': userToken}}).then(res =>{
                     this.$eventBus.$emit("loadingStatus", false)
-
                     if(res.data.success){
                         this.$axios.defaults.headers.common['Authorization'] = 'token' +localStorage.getItem("token");
                         //this.$router.push({name:"admin"})
                         //var xx = localStorage.getItem("token")
                         this.showingEditModal = false
                         this.init();
-
                     }
                     else {
-
                         this.$iziToast.error({
                             title: 'Error',
                             message: "\n" +
                                 "",
-
                         });
                     }
                 })
@@ -245,7 +225,6 @@
                 let userToken= 'Bearer' +" " +localStorage.getItem("token");
                 let deleteUrl = 'http://localhost:56750/Api/product/' + this.clickedProduct.id
                 this.$eventBus.$emit("loadingStatus", true);
-
                 this.$axios.delete(deleteUrl, {headers:{ 'Authorization': userToken}} ).then(res =>{
                     this.$eventBus.$emit("loadingStatus", false)
                   //  console.log();
@@ -263,18 +242,30 @@
                             title: 'Error',
                             message: "\n" +
                                 "",
-
                         });
                     }
                 })
-
             },
-
-
-
+            filtersByProduct(name, category){
+                let vm = this;
+                this.sortedProduct = []
+                //console.log(this.filterLogin)
+                this.Products.map(function (item) {
+                    if (item.name === name || item.category === category)
+                        vm.sortedProduct.push(item)
+                })
+            },
         },
-
-
+        computed:{
+            filtersProduct(){
+                if (this.sortedProduct.length){
+                    return this.sortedProduct
+                }
+                else {
+                    return this.Products
+                }
+            },
+        }
     }
 </script>
 

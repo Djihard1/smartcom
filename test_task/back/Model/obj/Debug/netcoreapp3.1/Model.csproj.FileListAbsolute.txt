@@ -47,14 +47,14 @@ C:\Users\Professional\Downloads\test_task\test_task\back\Model\obj\Debug\netcore
 C:\Users\Professional\Downloads\test_task\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.pdb
 C:\Users\Professional\Downloads\test_task\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.deps.json
-C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
-C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.dll
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.pdb
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
-C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.dll
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
 C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache

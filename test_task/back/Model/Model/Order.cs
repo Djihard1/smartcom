@@ -16,13 +16,16 @@ namespace Model.Model
         public DateTime ORDER_DATE { get; set; }
 
         //Дата доставки
-        public DateTime? SHIPMENT_DATE { get; set; }
+        [Required]
+        public DateTime SHIPMENT_DATE { get; set; }
 
         //Номер заказа
         public int? ORDER_NUMBER { get; set; }
 
         //Состояние заказа
         public string STATUS { get; set; }
+
+        public int total { get; set; }
 
        // [Required]
         public virtual Customer Customer { get; set; }

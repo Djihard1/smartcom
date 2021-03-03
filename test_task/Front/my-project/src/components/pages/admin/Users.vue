@@ -140,11 +140,49 @@
 
     <h2 class="fleft">Users</h2>
     <button class="addBtn fright" @click="showingAddModal = true">Add New</button>
+    <br><br><br>
+    <hr>
+    <h2 class="fleft">Filters</h2>
+    <br><br>
+    <table>
+      <th>Login</th>
+      <td>
+        <select v-model="filterLogin" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)" >
+          <option>All</option>
+          <option v-for="user in Users" > {{user.login}}</option>
+        </select>
+      </td>
+      <th>Name</th>
+      <td>
+        <select v-model="filterName" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)" >
+          <option>All</option>
+          <option v-for="user in Users"> {{user.name}}</option>
+        </select>
+      </td>
+      <th>Role</th>
+      <td>
+        <select v-model="filterRole" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)">
+          <option>All</option>
+          <option value="Manager"> Manager </option>
+          <option value="Сustomer"> Сustomer </option>
+        </select>
+      </td>
+      <th>Address</th>
+      <td>
+        <select v-model="filterAddress" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)">
+          <option>All</option>
+          <option v-for="user in Users"> {{user.address}}</option>
+        </select>
+      </td>
+    </table>
+    <button class="addBtn fleft" @click="clearFilters">Clear Filters</button>
+
+
+
     <div class="clear"></div>
     <hr>
     <table class="nice-table">
       <tr>
-        <th>ID</th>
         <th>Login</th>
         <th>Name</th>
         <th>Role</th>
@@ -155,9 +193,8 @@
         <th>delete</th>
       </tr>
 
-      <tr v-for="user in Users">
-        <td>{{user.id}}</td>
-        <td>{{user.login}}</td>
+      <tr v-for="user in filtersUsers">
+        <td id="login">{{user.login}}</td>
         <td>{{user.name}}</td>
         <td>{{user.role}}</td>
         <td>{{user.code}}</td>
@@ -188,7 +225,15 @@
                     Discount:0
                 },
                 Users:[],
+                sortedUser:[],
                 clickedUser:{},
+                // Фильтры
+                filterLogin:'',
+                filterName:'',
+                filterRole:'',
+                filterAddress:'',
+                filterDiscount:''
+
             }
         },
         mounted(){
@@ -198,8 +243,6 @@
         methods:{
             init(){
                 let userToken= 'Bearer' +" " +localStorage.getItem("token");
-
-                //console.log(userToken)
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.get("http://localhost:56750/Api/Customer/GetAll", {headers:{ 'Authorization': userToken}} ).then(res =>{
                     this.$eventBus.$emit("loadingStatus", false)
@@ -216,8 +259,26 @@
                 })
 
             },
+            clearFilters(){
+                    this.filterLogin = null,
+                    this.filterName= null,
+                        this.filterRole= null,
+                        this.filterAddress= null,
+                        this.filterDiscount= null
+                    this.sortedUser = [];
+            },
+            //TODO
+            filtersByUsers(login , name, role, address, ){
+                let vm = this;
+                this.sortedUser = []
+                console.log(this.filterLogin)
+                this.Users.map(function (item) {
+                    if (item.login === login || item.name === name || item.role === role || item.address === address)
+                        vm.sortedUser.push(item)
+                })
+            },
             addNewUser(){
-                //console.log(this.reg.Discount);
+                //console.log(this.reg);
                 //let a = this.reg.Discount.number()
 //todo!!!!
                 if (!this.reg.Name ){{
@@ -280,7 +341,6 @@
                     }
                 })
             },
-
             DeleteUser()
             {
                 let userToken= 'Bearer' +" " +localStorage.getItem("token");
@@ -307,6 +367,16 @@
                 })
             },
         },
+        computed:{
+            filtersUsers(){
+                if (this.sortedUser.length){
+                    return this.sortedUser
+                }
+                else {
+                    return this.Users
+                }
+            },
+        }
     }
 </script>
 
