@@ -7,10 +7,11 @@
           To Shop
         </router-link>
       </li>
+
     </div>
     <div id="shop">
       <br>
-      <div class="product" v-for="order in orders" >
+      <div class="product" v-for="order in filtersOrders" >
         <div>
           <img src="https://www.alternat.ru/upload/iblock/59e/59e0a0ea5ba125ec023d082d634a0f28.jpg">
           <h5>Status:{{order.status}}</h5>
@@ -25,7 +26,21 @@
           <button  class="addBtn"  @click="clickedOrderId = order.id, DeleteOrder() "> Dell</button>
         </div>
       </div>
+
     </div>
+    <div id="cart">
+      <div id="cartContainer">
+        <h1>Filters</h1>
+        <h3>Status</h3>
+        <select  v-model="filterStatus" @change="filtersByOrders(filterStatus)">
+          <option>All</option>
+          <option value="Новый">Новый</option>
+          <option value="Выполняется">Выполняется</option>
+          <option value="Выполнен">Выполнен</option>
+        </select>
+      </div>
+    </div>
+
   </div>
 </template>
 
@@ -34,7 +49,11 @@
         name: 'MyOrders',
         data () {
             return {orders:[],
-                clickedOrderId:""}
+                clickedOrderId:"",
+                filterStatus:"",
+                sortedOrders:[],
+                statusNotFound:false
+            }
         },
         mounted(){
             this.initCart()
@@ -66,7 +85,47 @@
                 } )
                 this.initCart()
             },
+            filtersByOrders(filterStatus){
+
+                let vm = this;
+
+                this.sortedOrders = []
+                //vm.init()
+                // console.log(filterStatus)
+                this.orders.map(function (item) {
+                    if (item.status === filterStatus){
+
+                        vm.sortedOrders.push(item)}
+                    else {
+                        if(filterStatus === 'All'){
+
+                            vm.statusNotFound = false;
+                        }
+                        else {
+                            vm.statusNotFound = true;
+
+
+
+                        }
+
+
+
+                    }
+                })
+            },
         },
+        computed:{
+            filtersOrders(){
+                if (this.sortedOrders.length){
+                    return this.sortedOrders
+                }
+                else {
+                    if(this.statusNotFound)
+                    {return this.sortedOrders}
+                    else {return this.orders }
+                }
+            },
+        }
     }
 </script>
 

@@ -148,7 +148,7 @@
       <th>Login</th>
       <td>
         <select v-model="filterLogin" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)" >
-          <option>All</option>
+          <option value="">All</option>
           <option v-for="user in Users" > {{user.login}}</option>
         </select>
       </td>

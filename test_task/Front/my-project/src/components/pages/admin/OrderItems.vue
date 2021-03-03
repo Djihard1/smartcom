@@ -38,7 +38,7 @@
 
 
     </table>
-    <button class="addBtn fleft">Clear Filters</button>
+    <button class="addBtn fleft" @click="clearFilters()">Clear Filters</button>
 
     <table class="nice-table">
       <tr ><th>Order Date</th>
@@ -65,7 +65,10 @@
                 orders:[],
                 clickedOrderItems:{},
                 filterStatus:"",
-                sortedOrders:[]
+                sortedOrders:[],
+                emptyOrers:[],
+                statusNotFound:false
+
             }
         },
         mounted(){
@@ -119,14 +122,29 @@
 
             },
             filtersByOrders(filterStatus){
+
                 let vm = this;
+
                 this.sortedOrders = []
-                console.log(filterStatus)
+               //vm.init()
+                // console.log(filterStatus)
                 this.orders.map(function (item) {
-                    if (item.status === filterStatus)
-                        vm.sortedOrders.push(item)
+                    if (item.status === filterStatus){
+
+                        vm.sortedOrders.push(item)}
                     else {
-                       // this.sortedOrders = []
+                        if(filterStatus === 'All'){
+
+                            vm.statusNotFound = false;
+                      }
+                        else {
+                            vm.statusNotFound = true;
+
+
+
+                        }
+
+
 
                     }
                 })
@@ -142,7 +160,9 @@
                     return this.sortedOrders
                 }
                 else {
-                    return this.orders
+                    if(this.statusNotFound)
+                    {return this.sortedOrders}
+                    else {return this.orders }
                 }
             },
         }

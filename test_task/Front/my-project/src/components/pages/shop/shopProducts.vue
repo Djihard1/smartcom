@@ -56,7 +56,6 @@
             filtersByCategory(category){
                 let vm = this;
                 this.sortedallProducts = []
-                console.log(this.allProducts)
                 this.allProducts.map(function (item) {
                     if (item.category === category)
                         vm.sortedallProducts.push(item)
