@@ -24,7 +24,7 @@
         <tr>
         <td>Photo_dev</td>
         <td>:</td>
-        <td><button>Load photo</button></td>
+        <td><input type="file"></td>
         <tr>
           <td>
           </td>
