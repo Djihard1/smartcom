@@ -52,7 +52,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPut]
-        [Authorize(Roles = "Manager")]
+       // [Authorize(Roles = "Manager")]
         public async Task<IActionResult> UpdateOrder(Order order)
         {
             ServiceResponse<Order> response = await _unitOfWorkN.OrderRepository.UpdateOrder(order);
@@ -64,7 +64,7 @@ namespace WebAPI.Controllers
             return Ok(response);
         }
         [HttpGet("GetAll")]
-        [Authorize(Roles = "Manager")]
+       // [Authorize(Roles = "Manager")]
         public async Task<IActionResult> Get()
         {
             return Ok(await _unitOfWorkN.OrderRepository.GetAllOrder());

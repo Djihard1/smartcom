@@ -13,7 +13,7 @@ namespace WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Manager")]
+   // [Authorize(Roles = "Manager")]
     public class CustomerController : ControllerBase
 
 

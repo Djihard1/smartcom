@@ -25,7 +25,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Manager")]
+       // [Authorize(Roles = "Manager")]
         public async Task<IActionResult> AddProduct(Product product)
         {
             return Ok(await _unitOfWorkN.ProductRepository.AddProduct(product)) ;
@@ -58,7 +58,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPut]
-        [Authorize(Roles = "Manager")]
+       // [Authorize(Roles = "Manager")]
         public async Task<IActionResult> UpdateProduct(Product product)
         {
             ServiceResponse<Product> response = await _unitOfWorkN.ProductRepository.UpdateProduct(product);
