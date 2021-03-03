@@ -22,6 +22,8 @@
           <br>
           <h5> TotalPrice  :{{order.total}}</h5>
           <br>
+          <h4>Product List in Cart:</h4>
+          <br>
           <h5 v-for="product in order.order">Product Name: {{product.name}} Price:{{product.price}} </h5>
           <button  class="addBtn"  @click="clickedOrderId = order.id, DeleteOrder() "> Dell</button>
         </div>
