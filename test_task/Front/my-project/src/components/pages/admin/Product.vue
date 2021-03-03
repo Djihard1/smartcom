@@ -84,13 +84,6 @@
     <h2 class="fleft">Filters</h2>
     <br><br>
     <table>
-      <th>Name</th>
-      <td>
-        <select v-model="filterName" @change="filtersByProduct(filterName,filterCategory)" >
-          <option>All</option>
-          <option v-for="product in Products"> {{product.name}}</option>
-        </select>
-      </td>
       <th>Category</th>
       <td>
         <select v-model="filterCategory" @change="filtersByProduct(filterName,filterCategory)" >

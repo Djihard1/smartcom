@@ -145,20 +145,7 @@
     <h2 class="fleft">Filters</h2>
     <br><br>
     <table>
-      <th>Login</th>
-      <td>
-        <select v-model="filterLogin" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)" >
-          <option value="">All</option>
-          <option v-for="user in Users" > {{user.login}}</option>
-        </select>
-      </td>
-      <th>Name</th>
-      <td>
-        <select v-model="filterName" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)" >
-          <option>All</option>
-          <option v-for="user in Users"> {{user.name}}</option>
-        </select>
-      </td>
+
       <th>Role</th>
       <td>
         <select v-model="filterRole" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)">
@@ -167,13 +154,7 @@
           <option value="Сustomer"> Сustomer </option>
         </select>
       </td>
-      <th>Address</th>
-      <td>
-        <select v-model="filterAddress" @change="filtersByUsers(filterLogin, filterName, filterRole, filterAddress, filterDiscount)">
-          <option>All</option>
-          <option v-for="user in Users"> {{user.address}}</option>
-        </select>
-      </td>
+
     </table>
     <button class="addBtn fleft" @click="clearFilters">Clear Filters</button>
 
@@ -271,11 +252,11 @@
             filtersByUsers(login , name, role, address, ){
                 let vm = this;
                 this.sortedUser = []
-                console.log(this.filterLogin)
                 this.Users.map(function (item) {
-                    if (item.login === login || item.name === name || item.role === role || item.address === address)
+                    if ( item.role === role )
                         vm.sortedUser.push(item)
                 })
+                console.log(this.sortedUser)
             },
             addNewUser(){
                 //console.log(this.reg);
