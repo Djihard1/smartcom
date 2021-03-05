@@ -24,6 +24,8 @@ namespace Model.Model
         //Категория товара.
         [MaxLength(30)]
         public string CATEGORY { get; set; }
+        //Img
+        public byte[] img { get; set; }
 
         public virtual ICollection<OrderItem> OrrderItems { get; set; }
 

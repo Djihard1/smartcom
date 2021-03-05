@@ -13,6 +13,7 @@ namespace BL.Repository_
         Task<ServiceResponse<Product>> GetProductById(Guid id);
         Task<ServiceResponse<List<Product>>> AddProduct(Product product);
         Task<ServiceResponse<Product>> UpdateProduct(Product product);
-        Task<ServiceResponse<List<Product>>> DeleteProduct(Guid id);
+        Task<ServiceResponse<Product>> DeleteProduct(Guid id);
+        
     }
 }

@@ -24,7 +24,7 @@
         <tr>
         <td>Photo_dev</td>
         <td>:</td>
-        <td><input type="file"></td>
+        <td><input type="file" @change="onFileSelected"></td>
         <tr>
           <td>
           </td>
@@ -136,10 +136,14 @@
                     name:"",
                     price:0,
                     category:"",
+                     file:null
+
                  },
                 Products:[],
                 clickedProduct:{},
-                sortedProduct:[]
+                sortedProduct:[],
+                selectedFile:null,
+
 
             }
         },
@@ -148,6 +152,11 @@
             this.init();
         },
         methods:{
+            onFileSelected(event){
+            this.selectedFile = event.target.files[0]
+                //console.log(event)
+                console.log(this.selectedFile)
+            },
             init(){
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.get("http://localhost:56750/api/Product/getall", ).then(res =>{
@@ -173,7 +182,13 @@
             },
 
             addNewProduct(){
-                //console.log(this.newProduct)
+                let fd = new FormData();
+                fd.append('image', this.selectedFile, this.selectedFile.name)
+                this.newProduct.file = fd;
+                console.log(fd)
+
+
+                console.log(this.newProduct)
                 let userToken= 'Bearer' +" " +localStorage.getItem("token");
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.post("http://localhost:56750/api/Product", this.newProduct, {headers:{ 'Authorization': userToken}}).then(res =>{

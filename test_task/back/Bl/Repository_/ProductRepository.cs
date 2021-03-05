@@ -41,18 +41,19 @@ namespace BL.Repository_
             {
                 serviceResponse.Success = false;
                 serviceResponse.Message = "Product already exists.";
-                serviceResponse.Data = new List<Product>();
+                
                 return serviceResponse;
             }
             await _db.Products.AddAsync(newproduct);
             await _db.SaveChangesAsync();
-            serviceResponse.Data = new List<Product>();
+            serviceResponse.Message = "Product added";
+            serviceResponse.Success = true;
             return serviceResponse;
         }
 
-        public async Task<ServiceResponse<List<Product>>> DeleteProduct(Guid id)
+        public async Task<ServiceResponse<Product>> DeleteProduct(Guid id)
         {
-            ServiceResponse<List<Product>> serviceResponse = new ServiceResponse<List<Product>>();
+            ServiceResponse<Product> serviceResponse = new ServiceResponse<Product>();
           
             Product product = await _db.Products.FirstOrDefaultAsync(c => c.ID.Equals(id));
 
@@ -60,7 +61,8 @@ namespace BL.Repository_
             {
                 if (product != null)
                 {
-                    serviceResponse.Data = new List<Product>();
+                    serviceResponse.Success = true;
+                    serviceResponse.Message = "Success";
                     _db.Products.Remove(product);
                     await _db.SaveChangesAsync();
 
@@ -116,6 +118,7 @@ namespace BL.Repository_
             product.NAME = updProduct.NAME;
             product.PRICE = updProduct.PRICE;
             product.CATEGORY = updProduct.CATEGORY;
+                product.img = updProduct.img;
             _db.Entry(product).State = EntityState.Modified;
             await _db.SaveChangesAsync();
                 serviceResponse.Data = product;
@@ -126,6 +129,7 @@ namespace BL.Repository_
                 serviceResponse.Message = "Product not found.";
 
             }
+            serviceResponse.Success = true;
             return serviceResponse;
 
         }
@@ -139,5 +143,6 @@ namespace BL.Repository_
             return false;
         }
 
+       
     }
 }

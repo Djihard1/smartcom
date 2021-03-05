@@ -31,6 +31,7 @@ namespace WebAPI.Controllers
             return Ok(await _unitOfWorkN.ProductRepository.AddProduct(product)) ;
             
         }
+       
 
         [HttpGet("GetAll")]
         public async Task<IActionResult> Get()
@@ -42,7 +43,7 @@ namespace WebAPI.Controllers
         [Authorize(Roles = "Manager")]
         public async Task<IActionResult> Delete(Guid id)
         {
-            ServiceResponse<List<Product>> response = await _unitOfWorkN.ProductRepository.DeleteProduct(id);
+            ServiceResponse<Product> response = await _unitOfWorkN.ProductRepository.DeleteProduct(id);
             if (response.Data == null)
             {
                 return NotFound(response);
