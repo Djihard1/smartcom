@@ -24,7 +24,7 @@
         <tr>
         <td>Photo_dev</td>
         <td>:</td>
-        <td><input type="file" @change="onFileSelected"></td>
+        <td><input type="file" input id="fileItem" @change="onFileSelected"></td>
         <tr>
           <td>
           </td>
@@ -126,6 +126,7 @@
         name: 'Users',
         data () {
             return {
+                file1: '',
                 showingAddModal:false,
                 showingEditModal:false,
                 showingDeleteModal:false,
@@ -142,7 +143,7 @@
                 Products:[],
                 clickedProduct:{},
                 sortedProduct:[],
-                selectedFile:null,
+                selectedFile:[0],
 
 
             }
@@ -153,9 +154,14 @@
         },
         methods:{
             onFileSelected(event){
-            this.selectedFile = event.target.files[0]
+            //this.selectedFile = event.target.files[0]
                 //console.log(event)
-                console.log(this.selectedFile)
+
+                this.file1 = this.$refs.file.files[0];
+                let formData = new FormData();
+                formData.append('file', this.file);
+                console.log(this.formData)
+
             },
             init(){
                 this.$eventBus.$emit("loadingStatus", true);
@@ -182,10 +188,11 @@
             },
 
             addNewProduct(){
-                let fd = new FormData();
-                fd.append('image', this.selectedFile, this.selectedFile.name)
-                this.newProduct.file = fd;
-                console.log(fd)
+                this.file1 = this.$refs.file.files[0];
+                let formData = new FormData();
+                formData.append('file', this.file1);
+                console.log(this.formData)
+
 
 
                 console.log(this.newProduct)
@@ -238,6 +245,7 @@
                 let deleteUrl = 'http://localhost:56750/Api/product/' + this.clickedProduct.id
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.delete(deleteUrl, {headers:{ 'Authorization': userToken}} ).then(res =>{
+                  //  console.log(res.data)
                     this.$eventBus.$emit("loadingStatus", false)
                   //  console.log();
                     if(res.data.success){
@@ -246,6 +254,7 @@
                         //var xx = localStorage.getItem("token")
                         this.showingDeleteModal = false
                         this.init();
+
 
                     }
                     else {

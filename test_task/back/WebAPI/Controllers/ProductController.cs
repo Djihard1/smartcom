@@ -43,7 +43,7 @@ namespace WebAPI.Controllers
         [Authorize(Roles = "Manager")]
         public async Task<IActionResult> Delete(Guid id)
         {
-            ServiceResponse<Product> response = await _unitOfWorkN.ProductRepository.DeleteProduct(id);
+            ServiceResponse<List<Product>> response = await _unitOfWorkN.ProductRepository.DeleteProduct(id);
             if (response.Data == null)
             {
                 return NotFound(response);

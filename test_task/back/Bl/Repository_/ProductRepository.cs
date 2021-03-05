@@ -51,18 +51,17 @@ namespace BL.Repository_
             return serviceResponse;
         }
 
-        public async Task<ServiceResponse<Product>> DeleteProduct(Guid id)
+        public async Task<ServiceResponse<List<Product>>> DeleteProduct(Guid id)
         {
-            ServiceResponse<Product> serviceResponse = new ServiceResponse<Product>();
-          
+            ServiceResponse<List<Product>> serviceResponse = new ServiceResponse<List<Product>>();
+
             Product product = await _db.Products.FirstOrDefaultAsync(c => c.ID.Equals(id));
 
             try
             {
                 if (product != null)
                 {
-                    serviceResponse.Success = true;
-                    serviceResponse.Message = "Success";
+                    serviceResponse.Data = new List<Product>();
                     _db.Products.Remove(product);
                     await _db.SaveChangesAsync();
 
