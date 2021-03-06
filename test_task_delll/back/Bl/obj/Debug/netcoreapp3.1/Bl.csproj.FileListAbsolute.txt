@@ -1,0 +1,75 @@
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\Bl.deps.json
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\Bl.dll
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\Bl.pdb
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\Model.dll
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\Model.pdb
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\Bl.csprojAssemblyReference.cache
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\Bl.AssemblyInfoInputs.cache
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\Bl.AssemblyInfo.cs
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\Bl.csproj.CopyComplete
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\Bl.dll
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\Bl.pdb
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.json
+Q:\C#\ smart_com\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.dev.json
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\BL.genruntimeconfig.cache
+Q:\C#\ smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.deps.json
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.json
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.dev.json
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.dll
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\Model.dll
+Q:\C#\Backup\08012021\smart_com\Bl\bin\Debug\netcoreapp3.1\Model.pdb
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.dll
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\Backup\08012021\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.genruntimeconfig.cache
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.deps.json
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.json
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.dev.json
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.dll
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\Model.dll
+Q:\C#\TMP\smart_com\Bl\bin\Debug\netcoreapp3.1\Model.pdb
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.dll
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.pdb
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.genruntimeconfig.cache
+Q:\C#\TMP\smart_com\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.json
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.dev.json
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Professional\Downloads\test_task\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.genruntimeconfig.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.json
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\bin\Debug\netcoreapp3.1\BL.runtimeconfig.dev.json
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.genruntimeconfig.cache
+C:\Users\Professional\Documents\GitHub\smartcom\test_task\back\Bl\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache

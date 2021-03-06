@@ -188,14 +188,6 @@
             },
 
             addNewProduct(){
-                this.file1 = this.$refs.file.files[0];
-                let formData = new FormData();
-                formData.append('file', this.file1);
-                console.log(this.formData)
-
-
-
-                console.log(this.newProduct)
                 let userToken= 'Bearer' +" " +localStorage.getItem("token");
                 this.$eventBus.$emit("loadingStatus", true);
                 this.$axios.post("http://localhost:56750/api/Product", this.newProduct, {headers:{ 'Authorization': userToken}}).then(res =>{
